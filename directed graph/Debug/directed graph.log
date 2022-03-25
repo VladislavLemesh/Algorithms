@@ -1,0 +1,20 @@
+﻿  Graph.cpp
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(66,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(68,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(78,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(80,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(112,13): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(117,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(126,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(128,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(177,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(185,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(198,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(215,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(217,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(227,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(229,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(275,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\алгоритмы\directed graph\Graph.cpp(283,22): warning C4018: <: несоответствие типов со знаком и без знака
+  directed graph.vcxproj -> C:\Users\user\Desktop\алгоритмы\directed graph\Debug\directed graph.exe
