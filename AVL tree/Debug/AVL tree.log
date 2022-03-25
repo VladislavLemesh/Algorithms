@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\алгоритмы\AVL tree\Source.cpp(172): warning C4715: minRight: значение возвращается не при всех путях выполнения
+C:\Users\user\Desktop\алгоритмы\AVL tree\Source.cpp(196): warning C4715: found: значение возвращается не при всех путях выполнения
+  AVL tree.vcxproj -> C:\Users\user\Desktop\алгоритмы\AVL tree\Debug\AVL tree.exe
